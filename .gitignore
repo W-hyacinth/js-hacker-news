@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+/dev/
+/dist/
+/dist_*/
+/upload_*
+/.cache/
+
+# Editor directories and files
+.idea
+.vscode
